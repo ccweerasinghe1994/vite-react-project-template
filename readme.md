@@ -6,5 +6,5 @@
 
 ## [creating a simple react application using vite](docs/app-creation.md)
 
-## [setting up the env  ](docs/env-files.md)
+## [setting up env files](docs/env-files.md)
 
