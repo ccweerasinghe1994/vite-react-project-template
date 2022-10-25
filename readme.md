@@ -1,11 +1,9 @@
 # creating a common template app for frontend using [vite](https://vitejs.dev/)
 
-- [creating a template app for frontend using vite](#creating-a-boiler-plate-app-for-frontend-using-vite)
-  - [creating a simple react application using vite](#creating-a-simple-react-application-using-vite)
-  - [setting up the env  ](#setting-up-the-env--)
+- [creating a common template app for frontend using vite](#creating-a-common-template-app-for-frontend-using-vite)
 
 - [x] [creating a simple react application using vite](docs/app-creation.md)
 
 - [x] [setting up env files](docs/env-files.md)
 
-- [] adding eslint
+- [x] [adding eslint configuration](docs/eslint.md)
