@@ -56,3 +56,8 @@ we can use these commands to run the application
 }
 
 ```
+and install type definitions for node 
+
+```bash
+npm i -D @types/node
+```

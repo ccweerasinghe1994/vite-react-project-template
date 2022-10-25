@@ -4,7 +4,8 @@
   - [creating a simple react application using vite](#creating-a-simple-react-application-using-vite)
   - [setting up the env  ](#setting-up-the-env--)
 
-## [creating a simple react application using vite](docs/app-creation.md)
+- [x] [creating a simple react application using vite](docs/app-creation.md)
 
-## [setting up env files](docs/env-files.md)
+- [x] [setting up env files](docs/env-files.md)
 
+- [] adding eslint
