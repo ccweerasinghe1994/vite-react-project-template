@@ -1,5 +1,11 @@
 # [🏠 BACK TO HOME PAGE ➡️](../readme.md)
 
+- [🏠 BACK TO HOME PAGE ➡️](#-back-to-home-page-️)
+  - [Env Variables](#env-variables)
+  - [creating env files for dev,qa and production and a default env file](#creating-env-files-for-devqa-and-production-and-a-default-env-file)
+  - [.env Files](#env-files)
+  - [Modes](#modes)
+
 ## Env Variables
 
 Vite exposes env variables on the special import.meta.env object. Some built-in variables are available in all cases:
@@ -69,7 +75,7 @@ Vite uses dotenv to load additional environment variables from the following fil
 SECURITY NOTES
 
 .env.*.local files are local-only and can contain sensitive variables.
-You should add *.local to your `.gitignore` to avoid them being checked into git.
+You should add*.local to your `.gitignore` to avoid them being checked into git.
 
 Since any variables exposed to your Vite source code will end up in your client bundle,
 VITE_* variables should not contain any **sensitive information**.
